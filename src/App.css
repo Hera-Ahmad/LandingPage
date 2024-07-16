@@ -27,6 +27,7 @@ button{
 nav{
   display:flex;
   justify-content: space-between;
+  align-items: center;
   max-width: 1280px;
   margin:h 0 auto;
   height: 72px;
